@@ -1,0 +1,8 @@
+D:\Work\MyORM\MyORM\bin\Release\MyORM.dll
+D:\Work\MyORM\MyORM\bin\Release\MyORM.pdb
+D:\Work\MyORM\MyORM\obj\Release\MyORM.dll
+D:\Work\MyORM\MyORM\obj\Release\MyORM.pdb
+D:\Work\MyORM\MyORM\bin\Release\myormlog.config.xml
+D:\Work\MyORM\MyORM\bin\Release\log4net.dll
+D:\Work\MyORM\MyORM\bin\Release\log4net.xml
+D:\Work\MyORM\MyORM\obj\Release\MyORM.csprojResolveAssemblyReference.cache

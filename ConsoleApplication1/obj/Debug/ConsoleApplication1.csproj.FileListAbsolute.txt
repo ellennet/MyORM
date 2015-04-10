@@ -1,0 +1,12 @@
+D:\Work\MyORM\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Work\MyORM\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Work\MyORM\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Work\MyORM\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Work\MyORM\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Work\MyORM\ConsoleApplication1\bin\Debug\MyORM.dll
+D:\Work\MyORM\ConsoleApplication1\bin\Debug\MyORM.pdb
+D:\Work\MyORM\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Work\MyORM\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Work\MyORM\ConsoleApplication1\bin\Debug\log4net.dll
+D:\Work\MyORM\ConsoleApplication1\bin\Debug\log4net.xml
+D:\Work\MyORM\ConsoleApplication1\bin\Debug\myormlog.config.xml
